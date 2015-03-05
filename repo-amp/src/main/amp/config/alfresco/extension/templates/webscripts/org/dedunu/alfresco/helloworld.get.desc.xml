@@ -1,0 +1,7 @@
+<webscript>
+    <shortname>Java based Sample Webscript</shortname>
+    <description>This simple WebScript prints Hello World</description>
+    <url>/dedunu/helloworld</url>
+    <authentication>user</authentication>
+    <format default="html"></format>
+</webscript>
